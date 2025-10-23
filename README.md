@@ -97,7 +97,7 @@ de @sainnhe, adaptado para o ambiente GitKraken.
 
 🎨 Tema original: Everforest by sainnhe
 
-🔧 Adaptação GitKraken: @davi19
+🔧 Adaptação GitKraken: <a href='https://github.com/davi19'>@davi19</a>
 
 🧠 Inspiração: Florestas enevoadas, manhãs frias e café quente ☕
 
