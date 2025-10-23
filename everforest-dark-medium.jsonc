@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "name": "Everforest Dark (Medium) for GitKraken",
+    "scheme": "dark"
+  },
+  "themeValues": {
+    "root": {
+      "white":"#D3C6AA",
+      "black":"#323D43",
+      "red":"#E67E80",
+      "orange":"#E69875",
+      "yellow":"#DBBC7F",
+      "green":"#A7C080",
+      "teal":"#83C092",
+      "blue":"#7FBBB3",
+      "ltblue":"#8EC0BA",
+      "purple":"#D699B6",
+
+      "app__bg0":"#323D43",
+      "toolbar__bg0":"#3C474D",
+      "toolbar__bg1":"#444F55",
+      "toolbar__bg2":"#4C575E",
+      "panel__bg0":"#3C474D",
+      "panel__bg1":"#444F55",
+      "panel__bg2":"#4C575E",
+      "glass":"#323D434D",
+      "glass-inverse-10":"#D3C6AA1A",
+      "glass-inverse-5":"#D3C6AA0D",
+      "input__bg":"#323D4333",
+      "panel-border":"fade(#D3C6AA,8%)",
+      "section-border":"fade(#D3C6AA,8%)",
+      "subtle-border":"fade(#D3C6AA,4%)",
+      "modal-overlay-color":"rgba(0,0,0,.45)",
+
+      "graph-color-0":"#7FBBB3",
+      "graph-color-1":"#83C092",
+      "graph-color-2":"#A7C080",
+      "graph-color-3":"#DBBC7F",
+      "graph-color-4":"#E69875",
+      "graph-color-5":"#E67E80",
+      "graph-color-6":"#D699B6",
+      "graph-color-7":"#7A8478",
+      "graph-color-8":"#859289",
+      "graph-color-9":"#A7C080",
+
+      ".text-color":"#D3C6AA",
+      "text-accent":"#7FBBB3",
+      "link-color":"#7FBBB3",
+
+      "terminal__background":"#323D43",
+      "terminal__foreground":"#D3C6AA",
+      "terminal__cursor":"#D3C6AA",
+      "terminal__selection":"#4C575E"
+    }
+  }
+}
+
