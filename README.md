@@ -18,8 +18,42 @@ Inspirado pela filosofia original do Everforest — *"a soft, warm and medium co
 
 ## 🖼️ Prévia
 
-> Adicione aqui suas capturas de tela — um print do GitKraken com cada variante ajuda demais!
+Experimente o GitKraken respirando o ar tranquilo da floresta 🍃  
+Cada variante foi ajustada com contraste e temperatura diferentes para se adaptar ao seu ambiente de trabalho.
 
+---
+
+### 🌒 Everforest Dark — Soft
+
+<p align="center">
+  <img width="100%" alt="Everforest Dark Soft" src="https://github.com/user-attachments/assets/5b260cb6-9e16-416c-897f-9942a6b719c1" />
+</p>
+
+---
+
+### 🌘 Everforest Dark — Medium
+
+<p align="center">
+  <img width="100%" alt="Everforest Dark Medium" src="https://github.com/user-attachments/assets/4d0d1ad5-415b-4856-94c0-51d461ff9bba" />
+</p>
+
+---
+
+### 🌑 Everforest Dark — Hard
+
+<p align="center">
+  <img width="100%" alt="Everforest Dark Hard" src="https://github.com/user-attachments/assets/6ee93e9c-3cf2-43c4-b652-1436ab821a75" />
+</p>
+
+---
+
+### 🌤 Everforest Light
+
+<p align="center">
+  <img width="100%" alt="Everforest Light" src="https://github.com/user-attachments/assets/2f3b523d-3798-48d1-bcd8-240ca6c042a1" />
+</p>
+
+---
 
 ---
 
@@ -41,7 +75,7 @@ macOS: `~/Library/Application Support/GitKraken/themes`
 
 4. Reinicie o GitKraken se necessário.
 
-🌿 Paleta Base
+## 🌿 Paleta Base
 
 Cores principais utilizadas:
 
@@ -59,7 +93,7 @@ Cores principais utilizadas:
 Baseado na paleta oficial do Everforest
 de @sainnhe, adaptado para o ambiente GitKraken.
 
-✨ Créditos
+## ✨ Créditos
 
 🎨 Tema original: Everforest by sainnhe
 
